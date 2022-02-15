@@ -865,6 +865,7 @@
   }
   .header__slider .carousel-text h1{
     font-size: 100px;
+    line-height: 150px;
   }
   .header__slider .carousel-text h2{
     width: 383px;
