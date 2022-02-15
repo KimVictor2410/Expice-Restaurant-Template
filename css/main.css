@@ -919,6 +919,9 @@
     left: -120px;
     height: unset;
   }
+  .content--info--info .data{
+    flex-direction: column;
+  }
 }
 @media (max-width: 575.9px) {
   .header-right{
